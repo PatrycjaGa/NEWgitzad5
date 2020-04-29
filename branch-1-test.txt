@@ -1,0 +1,1 @@
+Dodanie nowej funkcjonalnosci w pliku w branchu 1.
