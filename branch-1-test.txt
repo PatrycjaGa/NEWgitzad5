@@ -1,1 +1,1 @@
-Dodanie nowej funkcjonalnosci w pliku w branchu 1.
+Modyfikacja w branchu-1 pliku branch1.
