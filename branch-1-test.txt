@@ -1,1 +1,1 @@
-Dodanie nowej funkcjonalnosci w pliku w branchu 1.
+Dodanie nowej funkcjonalnosci tesraz w branchu-conflict2.
